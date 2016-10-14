@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  color: blue;
+}
+
+h1 {
+  font-family: 'Homemade Apple', cursive;
+  color: #e6005c;
+}
+
+h5 {
+  line-height: 1.5;
+  font-size: 1.2em;
+}
+.label_format {
+  display: inline-block;
+  font-size: 20px;
+  margin: 10px;
+  border: 0.5px solid black;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.label_format:hover {
+  background: linear-gradient(rgba(0, 153, 153, 0.7), rgba(255, 153, 255, 0.7));
+
+}
